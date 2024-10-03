@@ -1,1 +1,1 @@
-# fullsail-wdv463-o_1.6_excersice
+# fullsail-wdv463-o_1.6_excercise
