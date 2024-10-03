@@ -1,0 +1,16 @@
+# Site settings
+title: 1.6 Exercise
+email: egonzalezhidalfo@student.fullsail.edu
+description: >- 
+  Full Sail's Web Development assignment for Development of Web applications class
+baseurl: "" # Leave this empty for the root URL
+url: "http://0.0.0.0:300" # Set this to the address you want to access it by
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Network Configuration
+host: 0.0.0.0
+port: 3000
